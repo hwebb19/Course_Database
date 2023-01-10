@@ -12,8 +12,6 @@ The database allows you to review, select, and display courses in the database b
 To start the server, execute the following in the terminal:
 node courseServer.js PORT_NUMBER
 
-Deployed Link: https://fierce-colt-culottes.cyclic.app 
-
 API Links:
 https://api.agify.io/?name=cory
 
