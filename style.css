@@ -1,0 +1,24 @@
+table {
+    border: 0.25rem solid blue;
+
+}
+
+.link:hover {
+    font-size: large;
+}
+
+body {
+    background-color: white;
+    height: 50rem;
+    width: 40rem;
+    border: 0.5rem ridge blue;
+    outline: 0.5rem double blue;
+    box-shadow: 0 0 0 1.5rem white;
+    margin: black;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 22rem;
+    margin-right: 24rem;
+    padding: 3rem; /*will also prob need to change this because havent added images yet to top*/
+    outline-offset: 1rem;
+}
